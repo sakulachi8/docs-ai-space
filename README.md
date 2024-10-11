@@ -1,24 +1,19 @@
-## Revolutionize Web Development with AI-Powered Solutions
+## Web Development with File Chat System
 
 AI-Spaces merges the capabilities of React, Redux Toolkit, and FastAPI to create an advanced platform where users can interact with AI models. This platform allows users to input questions and upload documents, which are then intelligently scanned for relevant information. AI-Spaces generates precise summaries based on user queries, offering a sophisticated yet user-friendly environment for building cutting-edge web applications.
 
 ## Project Industry
 
-*AI-Powered Web Development*
+*AI-Powered File Chat Web App*
 
 ## Media & Links:
 
-*Project Link:* [AI-Spaces Web App](#)
+*Project Link:* [AI-Spaces Web App](https://documentai-bki-webapp-dev.azurewebsites.net/)
 
 *Overview Image:*
 
-<img width="500" alt="ai-spaces-overview" src="https://github.com/user-attachments/assets/ai-spaces-overview.png">
+<img width="500" alt="ai-spaces-overview" src="https://github.com/user-attachments/assets/fd94e1df-02bf-413e-9491-f97185558a8a">
 
-## High-Level Architecture
-
-AI-Spaces integrates FastAPI for a high-performance Python backend with React and Redux Toolkit for a dynamic and robust frontend. The platform leverages AI to analyze and summarize documents based on user queries, providing an intuitive and efficient development environment.
-
-<img width="500" alt="ai-spaces-architecture" src="https://github.com/user-attachments/assets/ai-spaces-architecture.png">
 
 ## Project Overview
 
@@ -55,20 +50,22 @@ AI-Spaces streamlines this process by combining React and Redux for frontend dev
 ## Screenshots
 
 - **AI-Spaces Landing Page:** Overview of AI-Spaces, showcasing its key features and capabilities.
-<img width="500" alt="ai-spaces-landing-page" src="https://github.com/user-attachments/assets/ai-spaces-landing-page.png">
+<img width="500" alt="ai-spaces-landing-page" src="https://github.com/user-attachments/assets/df011072-9221-4273-a22b-9fdb83318c2c">
+
 
 ---
 - **AI-Spaces Document Upload:** Interface for uploading documents for AI analysis.
-<img width="500" alt="ai-spaces-document-upload" src="https://github.com/user-attachments/assets/ai-spaces-document-upload.png">
+<img width="500" alt="ai-spaces-document-upload" src="https://github.com/user-attachments/assets/1028404a-ebe8-49de-99e4-514ffcdf32e1">
+
 
 ---
 - **AI-Spaces Chat Interface:** Engage with AI models through an intuitive chat interface.
-<img width="500" alt="ai-spaces-chat-interface" src="https://github.com/user-attachments/assets/ai-spaces-chat-interface.png">
+<img width="500" alt="ai-spaces-chat-interface" src="https://github.com/user-attachments/assets/820a6fb7-48ee-4a0b-8c1c-0edb2af63b4a">
+
 
 ---
 - **AI-Spaces Summary View:** View generated summaries from uploaded documents.
-<img width="500" alt="ai-spaces-summary-view" src="https://github.com/user-attachments/assets/ai-spaces-summary-view.png">
+<img width="500" alt="ai-spaces-summary-view" src="https://github.com/user-attachments/assets/11e78ee6-9e76-4318-8240-bdef0f1ecda4">
 
 ---
-
 *Empower your web development with AI-Spaces—your gateway to AI-driven web solutions.*
