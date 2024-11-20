@@ -1,6 +1,6 @@
-## Web Development with File Chat System
+## AI-Powered File Chat Web App
 
-AI-Spaces merges the capabilities of React, Redux Toolkit, and FastAPI to create an advanced platform where users can interact with AI models. This platform allows users to input questions and upload documents, which are then intelligently scanned for relevant information. AI-Spaces generates precise summaries based on user queries, offering a sophisticated yet user-friendly environment for building cutting-edge web applications.
+AI-Spaces integrates React, Redux Toolkit, and FastAPI to build an advanced platform for interacting with AI models. Users can input questions or upload documents to receive precise, AI-driven summaries, creating a seamless and intuitive experience for modern web applications.
 
 ## Project Industry
 
