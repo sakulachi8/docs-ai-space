@@ -50,22 +50,22 @@ TripleAI streamlines this process by combining React and Redux for frontend deve
 ## Screenshots
 
 - **TripleAI Landing Page:** Overview of TripleAI, showcasing its key features and capabilities.
-<img width="500" alt="TripleAI-landing-page" src="https://github.com/user-attachments/assets/df011072-9221-4273-a22b-9fdb83318c2c">
+<img width="500" alt="TripleAI-landing-page" src="https://github.com/user-attachments/assets/00f1cd45-dc20-40e6-bdf6-aa58b5d023ba">
 
 
 ---
 - **TripleAI Document Upload:** Interface for uploading documents for AI analysis.
-<img width="500" alt="TripleAI-document-upload" src="https://github.com/user-attachments/assets/1028404a-ebe8-49de-99e4-514ffcdf32e1">
+<img width="500" alt="TripleAI-document-upload" src="https://github.com/user-attachments/assets/aabce48b-1b6d-4b8c-a23c-b6094adf4bb6">
 
 
 ---
 - **TripleAI Chat Interface:** Engage with AI models through an intuitive chat interface.
-<img width="500" alt="TripleAI-chat-interface" src="https://github.com/user-attachments/assets/820a6fb7-48ee-4a0b-8c1c-0edb2af63b4a">
+<img width="500" alt="TripleAI-chat-interface" src=<"https://github.com/user-attachments/assets/110c1b18-ee7a-4bcb-912f-f034ed628eda">
 
 
 ---
 - **TripleAI Summary View:** View generated summaries from uploaded documents.
-<img width="500" alt="TripleAI-summary-view" src="https://github.com/user-attachments/assets/11e78ee6-9e76-4318-8240-bdef0f1ecda4">
+<img width="500" alt="TripleAI-summary-view" src="https://github.com/user-attachments/assets/fbe087c4-614b-437d-b239-994fb927ffd0">
 
 ---
 *Empower your web development with TripleAI—your gateway to AI-driven web solutions.*
