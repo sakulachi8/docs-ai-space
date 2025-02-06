@@ -60,7 +60,7 @@ TripleAI streamlines this process by combining React and Redux for frontend deve
 
 ---
 - **TripleAI Chat Interface:** Engage with AI models through an intuitive chat interface.
-<img width="500" alt="TripleAI-chat-interface" src=<"https://github.com/user-attachments/assets/110c1b18-ee7a-4bcb-912f-f034ed628eda">
+<img width="500" alt="TripleAI-chat-interface" src="https://github.com/user-attachments/assets/110c1b18-ee7a-4bcb-912f-f034ed628eda">
 
 
 ---
