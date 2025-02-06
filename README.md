@@ -8,7 +8,7 @@ AI-Spaces integrates React, Redux Toolkit, and FastAPI to build an advanced plat
 
 ## Media & Links:
 
-*Project Link:* [AI-Spaces Web App](https://documentai-bki-webapp-dev.azurewebsites.net/)
+*Project Link:* [AI-Spaces Web App](https://github.com/user-attachments/assets/f9cce24c-2a09-4ef7-ae0b-bd4eea62580b)
 
 *Overview Image:*
 
